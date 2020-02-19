@@ -60,3 +60,7 @@ gem 'rails-controller-testing', group: [ :test ]
 
 # Simpler forms
 gem 'simple_form'
+
+# More frontend
+gem 'autoprefixer-rails'
+gem 'font-awesome-sass', '~> 5.6.1'
